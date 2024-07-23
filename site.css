@@ -1,0 +1,21 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+main{
+    background-color: rgba(233, 239, 235, 0.763); 
+    padding: 4px; 
+    color: #202020";
+}
+
+h1, h2{
+    color: darkblue;
+}
+
+header img{
+    border: 1px solid #808080;
+    padding: 2px 2px;
+    margin: 8px;
+    border-radius: 8px;
+    max-width: 100px
+}
